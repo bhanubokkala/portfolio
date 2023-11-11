@@ -1,0 +1,196 @@
+body{
+      background-color: rgb(76, 222, 76);  
+}
+.header{
+      background-image:url("images/profile.jpg") ;
+      width:100%;
+      height: 1200px;
+      margin-top:60px;
+      padding-top: -60px;
+      width: 100%;
+      height: 600px;
+      
+}
+p{
+      color: white;
+      font-size: 80px;
+      margin-left: 40px;
+}
+span{
+      color: palevioletred;
+}
+nav{
+      color: white;
+      display: flex;
+      justify-content: space-between;
+      align-items: left;
+      padding-left: 10px;
+      padding-top: 10px;
+}
+nav ul li{
+      list-style-type:none;
+      display: inline-block;     
+}
+a{
+      color: white;
+      font-size: x-large;
+      margin-left: 70px;
+      text-decoration: none;    
+}
+.text{
+      margin-left: 5%;
+      margin-top:5%;
+}
+h1{
+      margin-bottom: 0px;
+      font-size: 75px;
+     margin-top: 0px;
+}
+h3{
+      font-size: 50px;
+      margin-top: 0px;
+}
+h4{
+     margin-bottom: 0px;
+      font-size: 30px;
+}
+.email{
+ 
+    height: 40px;
+    margin-top: 0px;
+    border: none;
+    border-color: white;
+}
+.email:hover{
+      border-color: white;
+}
+button{
+      background-color: red;
+      color: white;
+      border-radius: 6px;
+      height: 40px;
+      border: none;
+}
+button:hover{
+      opacity: 0.6;
+}
+.about{
+      height: 600px;
+      width: 100%;
+      background-color: rgb(76, 222, 76);  
+      display:flex;
+      color: black;
+}
+.image{
+      margin-top: 90px;
+      margin-left: 30px;
+      height: 400px;
+      width: 400px;
+      border-radius: 200px;
+}
+.para{
+   color: black;
+   font-size: xx-large;
+   margin-top: 250px;
+   margin-left: -200px;
+}
+.h{
+      font-size: 50px;
+      margin-top: 130px;
+      margin-left: 60px;
+
+}
+ul{
+      color: red;
+      margin-left: 100px;
+      margin-top: -58px;
+}
+.dev{
+      margin-top:170px ;
+      padding-top: 20px;
+      margin-left: -200px;
+      font-size: 40px;
+}
+.services{
+      height: 600px;
+      background-color: rgb(76, 222, 76); 
+}
+.my{
+ 
+      margin-left: 500px;
+}
+span{
+      color: red;
+}
+.grid{
+      display: grid;
+      grid-template-columns: 100px 100px 100px;
+      column-gap: 250px;
+      margin-top: 50px;
+      margin-left: 200px;
+}
+.gb{
+  
+      margin-top: 30px;
+      height: 350px;
+      width: 300px;
+      background-color: black;
+      color: white;
+}
+.gb:hover{
+      background-color: rgb(241, 5, 5);
+}
+.passage{
+      height: 250px;
+      width: 280px;
+      font-size: medium;
+      margin-top: 50px;
+      margin-left: 0px;
+}
+.img{
+      margin-top: 50px;
+      height: 100px;
+      width: 100px;
+
+}
+.heading{
+      margin-left: 500px;
+      height: 600px;
+}
+.g{
+      margin-top: -500px;
+      margin-left: 450px;
+      height: 500px;
+      width: 450px;
+      border-radius: 50px;
+      background-color: white;
+}
+.name{
+      height: 30px;
+      width: 300px;
+      margin-top: 30px;
+      font-family: arial;
+      margin-left: 40px;
+      padding:8px;
+      font-size: x-large;
+}
+.message{
+      height: 50px;
+      font-size: x-large;
+      margin-left: 40px;
+      width: 300px;
+      height: 140px;
+      margin-top: 30px;
+      padding-top: -30px;
+      justify-content: left;
+}
+.b{
+      margin-top: 30px;
+      margin-left: 150px;
+      width: 150px;
+      height: 36px;
+      font-size: x-large;
+}
+.b:hover{
+      opacity: 0.6;
+}
